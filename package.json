@@ -18,7 +18,7 @@
     "core-js": "^3.6.4",
     "foundation-sites": "^6.6.1",
     "lazy-ass": "^1.6.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "v-autocomplete": "^1.8.2",
     "v-bar": "^3.0.0",
     "vue": "^2.6.11",
